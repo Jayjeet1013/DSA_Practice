@@ -1,2 +1,2 @@
 # DSA_Practice
-For DSA ONLY by Javascript
+For DSA  by C++ and Javascript
