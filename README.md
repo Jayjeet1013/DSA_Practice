@@ -1,5 +1,5 @@
 # DSA_Practice
-For DSA  by C++ and Javascript
+For DSA  by C++
 
 
 Data types in C++ are mainly divided into three types: 
