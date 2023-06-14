@@ -22,3 +22,22 @@ Structure
 Union
 Enumeration
 Typedef defined Datatype
+
+
+
+Loops are :- for,while ,do-while
+Statements are :- if , if-else,if-else_if-else
+
+Bitwise Operator
+AND - &
+OR - |
+NOT - ~
+XOR - ^
+
+
+Right shift and Left shift
+
+15 >> 1 and 15 << 1
+
+i++ ; post increment
+++i ; pre increment
